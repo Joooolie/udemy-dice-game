@@ -34,6 +34,12 @@ p {
 
 button {
   text-align: center;
+  font-family: 'Lobster';
+  font-size: 1.5rem;
+  background-color: #4ECCA3;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 30px;
 }
 
 img {
