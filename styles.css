@@ -10,6 +10,10 @@
 
 }
 
+.refresh-button {
+  text-align: center;
+}
+
 body {
   background-color: #393E46;
 }
@@ -29,9 +33,7 @@ p {
 }
 
 button {
-  display: block;
   text-align: center;
-  left: 50%;
 }
 
 img {
